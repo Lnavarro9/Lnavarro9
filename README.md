@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Luis 👋
 
-<!--
-**Lnavarro9/Lnavarro9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Interested in software development and problem solving  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 📊 Budget Tracker (C++)  
+  - Command-line app to track expenses and analyze spending  
+  - Uses file I/O, structs, and data processing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C++
+- Data Structures
+- File I/O
+- Problem Solving
+
+## 📫 Connect with me
+https://www.linkedin.com/in/luis-navarro-a6341b112/
